@@ -2,6 +2,9 @@
 
 I want to use [heirloom-mailx](http://heirloom.sourceforge.net/mailx.html) with [corentinaltepe/heirloom-mailx](https://hub.docker.com/r/corentinaltepe/heirloom-mailx/) Docker image but I don't found Dockerfile source code, then I have created it in this repository.
 
+Docker image on Docker Hub: [harobed/docker-heirloom-mailx/](https://hub.docker.com/r/harobed/docker-heirloom-mailx/)
+
+
 ## Build Docker image
 
 ```
